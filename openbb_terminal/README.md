@@ -171,7 +171,7 @@ issues.
     You can install Jupyter Lab extensions that help you manage settings and launch the terminal in a JL bash console
     using the commands in the [jupyterlab/README.md](../jupyterlab/README.md)
 
-**NOTE:** When you close the terminal and re-open it, the only command you need to re-call is `conda activate gst`
+**NOTE:** When you close the terminal and re-open it, the only command you need to re-call is `conda activate obb`
 before you call `python terminal.py` again.
 
 **TROUBLESHOOT:** If you are having troubles to install, check our _newest_
